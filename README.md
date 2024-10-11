@@ -11,4 +11,4 @@ IWAB3Dly/IWAB3Dly is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://streak-stats.demolab.com/IWAB3Dly=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/user=IWAB3Dly)](https://git.io/streak-stats)
